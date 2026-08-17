@@ -1,22 +1,26 @@
-# OpenCart Manual Testing Project
-
-## Project Overview
-This repository contains manual test cases for the OpenCart Demo website.
-
 ## Modules
+
 - Registration ✅
-- Login (In Progress)
-- Search
-- Product Display
-- Add To Cart
-- Shopping Cart
-- Checkout
+- Login ✅
+- Search ✅
+- Product Display ✅
+- Add To Cart ✅
+- Shopping Cart ✅
+- Checkout ✅
+
+## Documents Included
+
+- Test Scenarios
+- Test Cases (100+)
+- RTM (Requirement Traceability Matrix)
+- Bug Report
 
 ## Tools Used
+
 - Google Sheets
 - GitHub
-- OpenCart Demo
+- OpenCart Demo Website
 
 ## Status
-Registration module completed.
-Remaining modules are under preparation.
+
+Project Completed Successfully ✅
