@@ -7,7 +7,7 @@
 - Add To Cart ✅
 - Shopping Cart ✅
 - Checkout ✅
-
+- Logout
 ## Documents Included
 
 - Test Scenarios
